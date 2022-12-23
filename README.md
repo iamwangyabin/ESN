@@ -102,7 +102,7 @@ python main.py --dataset 5datasets_vit --max_epochs 10 --init_cls 10 --inc_cls 1
 
 ## Model Zoo:
 
-Pretrained models will be available soon.
+Pretrained models are available [here](https://drive.google.com/drive/folders/1D8qv1klFXePl-aQr5T8NVpoAf3nmxUld?usp=sharing).
 
 We assume the downloaded weights are located under the `checkpoints` directory.
 
